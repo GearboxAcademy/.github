@@ -1,6 +1,10 @@
 # Hi there 👋
 
-## This is Gearbox Academy official account.
+This is Gearbox Academy official Github account. Get in touch by writing an email to academy@gearbox.co.ke
+
+Check out our website [here](https://www.gearbox.co.ke/academy/)
+
+Checkout our students portfolio [here](https://www.gearbox.co.ke/academy/class)
 <!--
 
 **Here are some ideas to get you started:**
