@@ -1,2 +1,3 @@
-# .github
-Nderi webpage
+# Gearbox Academy
+
+Gearbox Academy Student Repository.
