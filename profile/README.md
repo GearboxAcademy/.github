@@ -2,7 +2,7 @@
 ![Gearbox Academy Logo](https://github.com/GearboxAcademy/.github/blob/main/profile/ga.jpg)
 
 
-This is Gearbox Academy official Github account. Get in touch by writing an email to academy@gearbox.co.ke
+This is Gearbox Academy official Github account. Get in touch by writing an email to academy@gearbox.co.ke or call/text to +254745279869
 
 Check out our website [here](https://www.gearbox.co.ke/academy/)
 
